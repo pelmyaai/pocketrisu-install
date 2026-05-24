@@ -17,7 +17,7 @@ mkdir -p pocketrisu
 
 tar -xzf PocketRisu.tar.gz -C pocketrisu
 
-cd pocketrisu
+cd pocketrisu/PocketRisu-v1.6.0-linux-x64
 
 echo "[PocketRisu] server start"
 bash start.sh
